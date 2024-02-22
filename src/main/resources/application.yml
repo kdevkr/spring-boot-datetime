@@ -1,0 +1,5 @@
+spring.main.banner-mode: off
+
+spring.mvc.format:
+  date-time: yyyy-MM-dd'T'HH:mm:ss[Z][XX]
+  time: HH:mm:ss[Z][XX]
